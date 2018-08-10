@@ -1,0 +1,3 @@
+[submodule "lib/mFAST"]
+	path = lib/mFAST
+	url = git@github.com:bitwyre/mFAST.git
